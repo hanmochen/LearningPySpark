@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1565840319878,"sparkVersion":"2.4.3","uid":"OneHotEncoder_1f4cab853524","paramMap":{"outputCol":"BIRTH_PLACE_VEC","inputCol":"BIRTH_PLACE_INT"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_1f4cab853524__output"}}
